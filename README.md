@@ -1,3 +1,9 @@
+**If you want to talk to me about anything related to Beatrun, don't. I *will* block you. Anything else is fine.**
+
+Once again: **I HAVE DETACHED MYSELF FROM ANY COMMUNITY AND PROJECT RELATED TO BEATRUN.** So stop trying to talk to me about it.
+
+---
+
 ...hi?
 
 I'm someone with, well, a little knowledge of Garry's Mod Lua and interested in doing C++ and C# stuff eventually. Working on a parkour gamemode for said game inspired by Titanfall and the Mirror's Edge games, which is currently in conceptual/PoC state.
