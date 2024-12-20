@@ -2,13 +2,7 @@ Taking a break from Garry's Mod scripting until January 1, 2025.
 
 ---
 
-**If you can't use my projects, you'll want to read [this](./Blacklisted%20from%20My%20Projects.md) first.** Only report an issue or ask for support after you ensure you're not on that.
-
----
-
-**If you want to talk to me about anything related to Beatrun, don't. I *will* block you. Anything else is fine.**
-
-Once again: **I HAVE DETACHED MYSELF FROM ANY COMMUNITY AND PROJECT RELATED TO BEATRUN.** So stop trying to talk to me about it.
+**If anyone would like to negotiate regarding that one Garry's Mod parkour gamemode, send me an email. It's below in this README. Not accepting anything else.**
 
 ---
 
