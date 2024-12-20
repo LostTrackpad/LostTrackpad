@@ -7,3 +7,5 @@ I'm interested in getting controller support in general on PC platforms, and I d
 Used to be associated with a Beatrun community, however I have detached myself completely due to some code licensing related things.
 
 I can be reached at `lamhung12700@gmail.com` or as `LostTrackpads` on Discord.
+
+Fun fact: You can see this README's history [here!](https://github.com/LostTrackpad/LostTrackpad/commits/main/)
