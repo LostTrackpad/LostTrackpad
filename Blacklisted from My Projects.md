@@ -4,7 +4,7 @@ A few users and communities have been blacklisted from my projects. This documen
 **Actively Blacklisted**
 |No.|Who|Why|From|Notes|
 |---|---|---|---|---|
-|1|`relaxtakenotes|Extremely hostile interactions[^1].|13:30 GMT+7 20/12/2024|They go by a few aliases apparently, Gmail blocked the email that had 'em though.
+|1|`relaxtakenotes`|Extremely hostile interactions[^1].|13:30 GMT+7 20/12/2024|They go by a few aliases apparently, Gmail blocked the email that had 'em though.
 
 ---
 **No Longer Blacklisted**
