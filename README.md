@@ -1,4 +1,10 @@
-## Hi there 👋
+...hi?
+
+I'm someone with, well, a little knowledge of Garry's Mod Lua and interested in C++ and C#. Working on a parkour gamemode for said game inspired by Titanfall and the Mirror's Edge games, which is currently in conceptual/PoC state.
+
+I dislike web technologies for local apps- like, don't libraries or stuff like Qt exists?
+
+I can be reached at `lamhung12700@gmail.com` or as `LostTrackpads` on Discord.
 
 <!--
 **LostTrackpad/LostTrackpad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
