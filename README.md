@@ -14,4 +14,6 @@ Used to be associated with a Beatrun community, however I have detached myself c
 
 I can be reached at `lamhung12700@gmail.com` or as `LostTrackpads` on Discord.
 
+**I can't separate humorous communication from non-humor communication, especially online. You might want to tone down your humor when talking to me.**
+
 Fun fact: You can see this README's history [here!](https://github.com/LostTrackpad/LostTrackpad/commits/main/)
