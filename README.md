@@ -2,10 +2,6 @@ Taking a break from Garry's Mod scripting until January 1, 2025.
 
 ---
 
-**If anyone would like to negotiate regarding that one Garry's Mod parkour gamemode, send me an email. It's below in this README. Not accepting anything else.**
-
----
-
 ...hi?
 
 I'm someone with, well, a little knowledge of Garry's Mod Lua and interested in doing C++ and C# stuff eventually. Working on a parkour gamemode for said game inspired by Titanfall and the Mirror's Edge games, which is currently in conceptual/PoC state.
