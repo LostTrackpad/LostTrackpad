@@ -1,3 +1,7 @@
+**If you can't use my projects, you'll want to read [this](./Blacklisted%20from%20My%20Projects.md) first.** Only report an issue or ask for support after you ensure you're not on that.
+
+---
+
 **If you want to talk to me about anything related to Beatrun, don't. I *will* block you. Anything else is fine.**
 
 Once again: **I HAVE DETACHED MYSELF FROM ANY COMMUNITY AND PROJECT RELATED TO BEATRUN.** So stop trying to talk to me about it.
