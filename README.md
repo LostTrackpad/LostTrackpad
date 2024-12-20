@@ -1,3 +1,7 @@
+Taking a break from Garry's Mod scripting until January 1, 2025.
+
+---
+
 **If you can't use my projects, you'll want to read [this](./Blacklisted%20from%20My%20Projects.md) first.** Only report an issue or ask for support after you ensure you're not on that.
 
 ---
